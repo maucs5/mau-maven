@@ -1,0 +1,3 @@
+To create fatjar, mvn clean package, and then run target/javafx-shade-0.1-shaded.jar
+
+To run, mvn clean compile javafx:run

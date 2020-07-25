@@ -1,0 +1,1 @@
+To create a minimal Java image with JavaFX, mvn clean compile javafx:jlink
