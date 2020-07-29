@@ -4,8 +4,12 @@ import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 import javafx.scene.control.ProgressBar;
+import javafx.scene.layout.AnchorPane;
 
 public class FXMLController {
+    @FXML
+    public AnchorPane rootPane;
+
     @FXML
     public ProgressBar bar;
 
